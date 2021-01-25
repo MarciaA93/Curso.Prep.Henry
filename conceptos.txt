@@ -1,0 +1,14 @@
+* Variables
+un nombre simbolico de un espacio, un valor.
+ 
+* Strings
+es una cadena de caracteres o palabras
+
+* Funciones (argumentos, `return`)
+es un conjunto de lineas de codigo que hacen una tarea en concreto
+
+* Declaraciones `if`
+sirve para hacer comparaciones
+
+* Valores booleanos (`true`, `false`)
+es una expresion que evalua si es falso o verdadero
